@@ -34,8 +34,8 @@ Resources:
       #  Fila padrão - simples e eficiente para começar
       
   PARA QUE SERVE:
-# Cria uma fila de mensagens simples para processamento assíncrono
-# Ideal para desacoplar serviços e lidar com picos de tráfego
+Cria uma fila de mensagens simples para processamento assíncrono
+Ideal para desacoplar serviços e lidar com picos de tráfego
 
  Minha Jornada Pessoal
 Primeiro Contato:
